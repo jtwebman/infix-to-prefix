@@ -20,3 +20,14 @@ Quick notes:
 - Parentheses in the output are not important - they are only in the examples for readability.
 - You can assume input and output are given as arrays of strings, e.g. [“3”, “+”, “1”, … etc.]
 - You can assume there are convenience functions such as isOperator.
+
+## To Test
+
+```bash
+npm install infix-to-prefix
+npm test
+```
+
+[Here is the actual code](functions.js)
+
+[Here are the tests](test/function_tests.js)
