@@ -1,0 +1,18 @@
+env:
+  node: true
+
+# enable ECMAScript features
+ecmaFeatures:
+  arrowFunctions: true
+  binaryLiterals: true
+  blockBindings: true
+  classes: true
+  forOf: true
+  generators: true
+  objectLiteralShorthandMethods: true
+  objectLiteralShorthandProperties: true
+  octalLiterals: true
+
+rules:
+  semi: [2, "always"]
+  quotes: [2, "single"]

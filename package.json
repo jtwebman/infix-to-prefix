@@ -1,0 +1,29 @@
+{
+  "name": "infix-to-prefix",
+  "version": "1.0.0",
+  "description": "Function that given an infix arithmetic expression, outputs a prefix version",
+  "main": "function.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtwebman/infix-to-prefix.git"
+  },
+  "keywords": [
+    "infix",
+    "prefix",
+    "arithmetic",
+    "expression"
+  ],
+  "author": "JT Turner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtwebman/infix-to-prefix/issues"
+  },
+  "homepage": "https://github.com/jtwebman/infix-to-prefix#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "must": "^0.13.1"
+  }
+}
