@@ -28,6 +28,6 @@ npm install infix-to-prefix
 npm test
 ```
 
-[Here is the actual code](functions.js)
+[Here is the actual code](function.js)
 
 [Here are the tests](test/function_tests.js)
